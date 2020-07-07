@@ -26,10 +26,11 @@ class MonSel:
         externalDispName = builder.get_object("externalDispName")
         if(len(MonSel.device) == 1):
             externalDispName.set_text("External: Not Connected")
+            print("Only one Display is connected.")
         else:
             externalDispName.set_text("External: "+MonSel.device[1])
-        window.show_all()
-        Gtk.main()
+            window.show_all()
+            Gtk.main()
 
 class Handler:
     def onDestroy(self, *args):
