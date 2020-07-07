@@ -16,7 +16,9 @@ Following are the requirements:
 #How to run
 Enter following command to run
 > git clone https://github.com/shudwi/MonSel.git
+
 > cd MonSel
+
 > python3 MonSel.py
 
 #Limitations
