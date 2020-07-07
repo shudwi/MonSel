@@ -10,17 +10,16 @@ It is a simple tool with option to select:
 #Requirements
 Following are the requirements:
 
-	- Python3
-	- PyGTK3+
-	- XRandR
+- Python3
+- PyGTK3+
+- XRandR
 
 #How to run
 Enter following command to run
-> git clone https://github.com/shudwi/MonSel.git
-
-> cd MonSel
-
-> python3 MonSel.py
-
+```
+git clone https://github.com/shudwi/MonSel.git
+cd MonSel
+python3 MonSel.py
+```
 #Limitations
 Rightnow it only work with two Monitors. In future update, expected to get more options.
