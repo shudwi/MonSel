@@ -7,19 +7,19 @@ It is a simple tool with option to select:
 - Mirrored Screen
 - Extended Screen
 
-#Requirements
+# Requirements
 Following are the requirements:
 
 - Python3
 - PyGTK3+
 - XRandR
 
-#How to run
+# How to run
 Enter following command to run
 ```
 git clone https://github.com/shudwi/MonSel.git
 cd MonSel
 python3 MonSel.py
 ```
-#Limitations
+# Limitations
 Rightnow it only work with two Monitors. In future update, expected to get more options.
